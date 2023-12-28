@@ -1,5 +1,5 @@
 # atas-controller
-This is an Arduino supervisior for a simple Yaesu ATAS-100 / ATAS-120 
+This is an Arduino supervisor for a simple Yaesu ATAS-100 / ATAS-120 
 antenna controller
 
 My Yaesu ATAS-100 died after a decade of exposure to road salt.  It
